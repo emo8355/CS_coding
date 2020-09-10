@@ -1,0 +1,10 @@
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\bin\Debug\COMP_3514_CS_Calculator.exe.config
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\bin\Debug\COMP_3514_CS_Calculator.exe
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\bin\Debug\COMP_3514_CS_Calculator.pdb
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.csprojAssemblyReference.cache
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.Form1.resources
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.Properties.Resources.resources
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.csproj.GenerateResource.cache
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.exe
+C:\Users\Homer\source\repos\COMP_3514_CS_Calculator\COMP_3514_CS_Calculator\obj\Debug\COMP_3514_CS_Calculator.pdb
